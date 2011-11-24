@@ -16,7 +16,7 @@ end
 #Webrat is a testing utility
 group :test do
   gem 'rspec-rails', '2.6.1'
-  gem 'webrat', '0.7.1'
+  gem 'webrat', '0.7.3'
 end
 
 # Gems used only for assets and not required
